@@ -11,5 +11,6 @@ class Solution {
         return result;
     }
 }
-Runtime: 2 ms, faster than 12.01% of Java online submissions for Split a String in Balanced Strings.
-Memory Usage: 38.9 MB, less than 5.88% of Java online submissions for Split a String in Balanced Strings.
+//if i use s.toCharArray() method than it will be 100% faster
+//Runtime: 2 ms, faster than 12.01% of Java online submissions for Split a String in Balanced Strings.
+//Memory Usage: 38.9 MB, less than 5.88% of Java online submissions for Split a String in Balanced Strings.
